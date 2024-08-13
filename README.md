@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asif Ansari</h1>
 <div align="center"> <img src="https://github.com/Harvad-stack/Harvad-stack/blob/main/banner.png"> </div>
 <h3 align="center">A passionate and Aspiring DevOps Engineer from India</h3>
+<img align="right" alt="Coding" width="450" src="https://github.com/Harvad-stack/Harvad-stack/blob/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harvad-stack&label=Profile%20views&color=0e75b6&style=flat" alt="harvad-stack" /> </p>
 
